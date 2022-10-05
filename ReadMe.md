@@ -1,4 +1,4 @@
-<h1>Hello Contributors !!</h1> <hr>
+<h1>Hello Contributors 🙌🏻 !!</h1> <hr>
     <br>
     <p align="center">
         <a href="https://hacktoberfest.digitalocean.com/">
@@ -9,5 +9,10 @@
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
+<br><hr><br>  
+<h3 align="centre>Objective Of This Repo</h3>
+   <p align="center">
+      To create HEllo World Programs in as many languages as Possible.
+    </p>
 
-    
+
