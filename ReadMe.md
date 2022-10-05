@@ -15,6 +15,7 @@
       To create Hello world programs in as many languages as possible.
     </p>
 <br><hr>
+
 ## Rules
 
 - Don't use filthy words and be welcome for beginners and other people in this community.
