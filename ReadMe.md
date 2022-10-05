@@ -12,7 +12,7 @@
 <br><hr><br>  
 <h3 align="centre>Objective Of This Repo</h3>
    <p align="center">
-      To create HEllo World Programs in as many languages as Possible.
+      To create Hello world programs in as many languages as possible.
     </p>
 
 
